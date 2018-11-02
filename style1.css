@@ -1,0 +1,25 @@
+body{
+  background-color: blue;
+}
+.box{
+  margin: 10% 10%;
+  border: black 6px solid;
+}
+.box1{
+  border: green 3px dashed;
+  margin-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: red;
+  font-size: 20px;
+  font-family: "Calibri",sans-serif;
+}
+.img{
+  height: auto;
+  width: 200px;
+  margin:20px 20px;
+}
+.box2{
+  border: white 3px dashed;
+  width: 240px;
+}

@@ -1,0 +1,31 @@
+.box{
+  margin: 20px 20px;
+  border: purple 3px dotted;
+  height: 300px;
+}
+.content{
+  text-align: center;
+  margin: 250px auto;
+}
+.text{
+  text-align: center;
+  font-size: 10px;
+  color: green;
+}
+.moretext{
+  color: orange;
+  font-size: 40px;
+}
+.sup{
+  color: red;
+}
+.notext{
+  color: purple;
+  font-size: 10px;
+  text-align: right;
+}
+.font{
+  color: yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
